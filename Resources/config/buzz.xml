@@ -19,6 +19,12 @@
             <call method="setProxy">
                 <argument>%buzz.client.proxy%</argument>
             </call>
+            <call method="setVerifyHost">
+                <argument>%buzz.client.verify_host%</argument>
+            </call>
+            <call method="setVerifyPeer">
+                <argument>%buzz.client.verify_peer%</argument>
+            </call>
             <call method="setSslCertificate">
                 <argument>%buzz.client.certificate%</argument>
             </call>
