@@ -19,6 +19,12 @@
             <call method="setProxy">
                 <argument>%buzz.client.proxy%</argument>
             </call>
+            <call method="setSslCertificate">
+                <argument>%buzz.client.certificate%</argument>
+            </call>
+            <call method="setSslCertificatePassphrase">
+                <argument>%buzz.client.certificate_passphrase%</argument>
+            </call>
         </service>
 
         <service id="buzz" class="%buzz.browser.class%">

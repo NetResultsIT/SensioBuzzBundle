@@ -24,5 +24,7 @@ class SensioBuzzExtension extends Extension
 
         $container->setParameter('buzz.client.timeout', $config['client_timeout']);
         $container->setParameter('buzz.client.proxy', $config['proxy']);
+        $container->setParameter('buzz.client.certificate', $config['client_certificate']);
+        $container->setParameter('buzz.client.certificate_passphrase', $config['client_certificate_passphrase']);
     }
 }

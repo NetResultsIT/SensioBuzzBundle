@@ -33,6 +33,12 @@ class Configuration implements ConfigurationInterface
                 ->scalarNode('proxy')
                     ->defaultNull()
                 ->end()
+                ->scalarNode('client_certificate')
+                    ->defaultNull()
+                ->end()
+                ->scalarNode('client_certificate_passphrase')
+                    ->defaultNull()
+                ->end()
             ->end()
         ;
 
