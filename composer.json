@@ -1,5 +1,5 @@
 {
-    "name": "sensio/buzz-bundle",
+    "name": "gigib82/buzz-bundle",
     "description": "Bundle around the Buzz HTTP client",
     "type": "symfony-bundle",
     "keywords": ["http client", "buzz"],
