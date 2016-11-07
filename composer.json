@@ -3,7 +3,7 @@
     "description": "Bundle around the Buzz HTTP client",
     "type": "symfony-bundle",
     "keywords": ["http client", "buzz"],
-    "homepage": "https://github.com/sensio/SensioBuzzBundle",
+    "homepage": "https://github.com/gigib82/SensioBuzzBundle",
     "license": "MIT",
     "authors": [
         {
