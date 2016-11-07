@@ -9,7 +9,12 @@
         {
             "name": "Marc Weistroff",
             "email": "marc.weistroff@sensio.com"
+        },
+        {
+            "name": "Luigi Belli",
+            "email": "gigib82@gmail.com"
         }
+
     ],
     "repositories": [
         {
