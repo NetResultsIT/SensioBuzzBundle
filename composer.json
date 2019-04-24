@@ -1,9 +1,9 @@
 {
-    "name": "gigib82/buzz-bundle",
+    "name": "netresultsit/buzz-bundle",
     "description": "Bundle around the Buzz HTTP client",
     "type": "symfony-bundle",
     "keywords": ["http client", "buzz"],
-    "homepage": "https://github.com/gigib82/SensioBuzzBundle",
+    "homepage": "https://github.com/NetResultsIT/SensioBuzzBundle",
     "license": "MIT",
     "authors": [
         {
