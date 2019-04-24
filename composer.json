@@ -24,7 +24,7 @@
     ],
     "require": {
         "php": ">=5.3.2",
-        "gigib82/buzz": "dev-master"
+        "netresultsit/buzz": "dev-master"
     },
     "target-dir": "Sensio/Bundle/BuzzBundle",
     "autoload": {
