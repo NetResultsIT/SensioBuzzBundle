@@ -19,7 +19,7 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/gigib82/buzz"
+            "url": "https://github.com/NetResultsIT/buzz"
         }
     ],
     "require": {
